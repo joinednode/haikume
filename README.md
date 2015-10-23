@@ -5,9 +5,9 @@ Generate random, haiku-based names for anything!
 Examples:
 
 * pretty-scrambled
-* salty-grapefruit
-* voiceless-nutritious
-* confused-menu
+* silly-grapefruit
+* quickest-stew
+* healthy-vinegar-48906
 
 ## Install
 
