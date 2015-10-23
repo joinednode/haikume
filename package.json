@@ -1,0 +1,28 @@
+{
+	"name": "haikume",
+	"version": "0.1.0",
+	"description": "Generate random, haiku-based names for anything.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/joinednode/haikume.git"
+	},
+	"keywords": [
+		"joinednode",
+		"flybase",
+		"names",
+		"generator",
+		"silly",
+		"random",
+		"haiku"
+	],
+	"author": "datamcfly",
+	"license": "MIT",
+	"bugs": {
+	"url": "https://github.com/joinednode/haikume/issues"
+	},
+	"homepage": "https://github.com/joinednode/haikume"
+}
